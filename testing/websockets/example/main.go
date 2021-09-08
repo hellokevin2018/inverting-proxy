@@ -19,7 +19,7 @@ limitations under the License.
 // implementation of websockets provided by the inverting proxy and agent.
 //
 // Example usage:
-//   go build -o ~/bin/example-websocket-sever testing/websockets/example/main.go
+//   go build -o ~/bin/example-websocket-server testing/websockets/example/main.go
 //   ~/bin/example-websocket-server --port 8082
 package main
 
